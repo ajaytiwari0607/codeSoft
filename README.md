@@ -9,22 +9,19 @@ Welcome to the Number Game. This project is a simple command-line game where the
 # Student Management System
 A Java application for managing student information.
 
------------------------------------
-#TASK 3
-# Student Management System
-
-- Add students with their name, roll number, and grade.
-- Remove students by roll number.
-- Search for students by roll number.
-- Display a list of all students.
-
-
 ## Getting Started
 
 1. Clone the repository.
 2. Compile and run the Java program.
 3. Follow the on-screen instructions to manage students.
 4. Give Your Own file Path.
+
+## Usage
+
+- Add students with their name, roll number, and grade.
+- Remove students by roll number.
+- Search for students by roll number.
+- Display a list of all students.
 
 ------------------------------------
 ### Prerequisites
